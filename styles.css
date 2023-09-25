@@ -3,7 +3,12 @@
 	margin:20px;
 	
 }
-.sel>strong{
+.sel strong:first-child{
 	color:#f00;
 	font-size:20px;
+}
+.sel strong:last-child{
+	color:#f00;
+	font-size:20px;
+	
 }
